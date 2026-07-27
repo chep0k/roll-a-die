@@ -1,5 +1,7 @@
 # Roll a Die (in your menu bar)
 
+![Demo](preview.gif)
+
 A lightweight, native macOS menu bar application built with Swift and AppKit. Click to roll a die, double-click to quit.
 
 ## Installation
@@ -26,6 +28,7 @@ roll-a-die/
 ├── main.swift              # App source code, UI built with Cocoa UI
 ├── build.sh                # Compiler script to build, strip, and archive the binary
 ├── AppIcon.png             # Master source image for the application icon
+├── preview.gif             # Preview video
 ├── PRD.md                  # Product Requirements Document
 ├── LICENSE                 # Open source license (MIT with source attribution)
 └── README.md               # Developer & deployment guide
